@@ -11,6 +11,9 @@ conda activate mudra
 pip install -r requirements.txt
 ```
 
+## Pipeline
+<img src="./assets/pipeline.png">
+
 ## Generating Mudra Keypoint Images using mediapipe
 ```
 python generate_pose_image.py
